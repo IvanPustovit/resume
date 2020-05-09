@@ -1,6 +1,7 @@
 body {
   margin: 0 auto;
   text-align: center;
+  background-image: url("/img/star-wars-backgrounds-14.jpg");
 }
 
 *,
@@ -40,6 +41,7 @@ body {
 .container {
   text-align: start;
   margin-bottom: 15px;
+  color: hsla(157, 43%, 43%, 0.933);
 }
 
 .my-name {
