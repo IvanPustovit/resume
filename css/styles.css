@@ -1,0 +1,53 @@
+body {
+  margin: 0 auto;
+  text-align: center;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+.img {
+  height: 230px;
+  border-radius: 70%;
+}
+
+.contact {
+  margin-top: 20px;
+  margin-bottom: 30px;
+  padding: 0;
+}
+
+.contact_use {
+  padding: 0;
+}
+
+.center {
+  text-align: center;
+}
+
+.vertical {
+  margin: auto;
+}
+
+.list {
+  list-style: square;
+  text-align: start;
+}
+
+.container {
+  text-align: start;
+  margin-bottom: 15px;
+}
+
+.my-name {
+  font-size: 50px;
+  font-family: serif;
+  color: indigo;
+}
+
+.res {
+  margin-top: 20px;
+}
